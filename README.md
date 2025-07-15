@@ -3,7 +3,9 @@
 This project focuses on classifying fake vs real news articles using multiple machine learning algorithms and text feature extraction techniques. After preprocessing the text data and converting it into numerical vectors using TF-IDF, we evaluate different classifiers to determine the best performing model.
 
 ---
+Link to the Kaggle dataset : https://www.kaggle.com/datasets/bhavikjikadara/fake-news-detection
 
+---
 ## 🚀 Tech Stack
 
 ### 🗂️ Tools & Libraries
